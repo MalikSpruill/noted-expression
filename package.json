@@ -1,0 +1,26 @@
+{
+  "name": "noted-expression",
+  "version": "1.0.0",
+  "description": "A note-taking app to create and delete recorded notes.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "dev": "nodemon index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MalikSpruill/noted-expression.git"
+  },
+  "author": "Malik Spruill",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MalikSpruill/noted-expression/issues"
+  },
+  "homepage": "https://github.com/MalikSpruill/noted-expression#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.16"
+  }
+}
